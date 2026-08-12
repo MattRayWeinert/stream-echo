@@ -1,0 +1,6 @@
+{
+  "name": "com.twitch_mirror_caps.toggle",
+  "path": "ABSOLUTE_PATH_TO/caps_toggle_host.pl",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://PUT_EXTENSION_ID_HERE/"]
+}
